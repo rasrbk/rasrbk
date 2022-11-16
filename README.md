@@ -1,7 +1,6 @@
 Olá 👋 Meu nome é Rebeca Almeida
 ===============================
-
-Sou Jornalista de Dados, artista visual e ativista pelo conhecimento livre. 
+###Jornalista de Dados, artista visual, ativista pelo conhecimento livre e amante de jogos eletrônicos. 
 
 Atualmente faço parte da equipe da [OKBR](https://ok.org.br/), onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. 
 
