@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Rebeca Almeida
+## Olá 👋 Meu nome é Rebeca Almeida
 
 ### Jornalista de Dados, artista visual, ativista pelo conhecimento livre e amante de jogos eletrônicos. 
 ===============================
