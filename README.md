@@ -1,12 +1,11 @@
 ## Olá 👋 Meu nome é Rebeca Almeida
 
-### Jornalista de Dados, Artista Visual, ativista pelo conhecimento livre e amante de jogos eletrônicos. 
-
-===============================
+#### Jornalista de Dados, Artista Visual, ativista pelo conhecimento livre e amante de jogos eletrônicos
 
 Atualmente faço parte da equipe da [OKBR](https://ok.org.br/), onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. 
 
-Sou bacharel em Comunicação Social com Habilitção em Jornalismo pela Universidade Federal da Bahia (Ufba). Faço parte do Raul Hacker Club e Pyladies Salvador. Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no g1BA, no jornal ATARDE, no site Boca do Rio Magazine e na agência de notícias Ciência e Cultura – UFBA.
+Sou bacharel em Comunicação Social com Habilitção em Jornalismo pela Universidade Federal da Bahia (Ufba). Faço parte do Raul Hacker Club e Pyladies Salvador. 
+Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no g1BA, no jornal ATARDE, no site Boca do Rio Magazine e na agência de notícias Ciência e Cultura – UFBA.
 
 * ✉️  Você pode entrar em contato comigo pelos seguintes endereços: 
   * [rebeca@ok.org.br](mailto:rebeca@ok.org.br)
