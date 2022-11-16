@@ -1,6 +1,7 @@
 ## Olá 👋 Meu nome é Rebeca Almeida
 
-### Jornalista de Dados, artista visual, ativista pelo conhecimento livre e amante de jogos eletrônicos. 
+### Jornalista de Dados, Artista Visual, ativista pelo conhecimento livre e amante de jogos eletrônicos. 
+
 ===============================
 
 Atualmente faço parte da equipe da [OKBR](https://ok.org.br/), onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. 
@@ -22,6 +23,6 @@ Sou bacharel em Comunicação Social com Habilitção em Jornalismo pela Univers
 </p>
 
 
-### Socials
+### Redes Sociais
 
 <p align="left"> <a href="https://discord.com/users/rasrbk#0463" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rebeca-almeida-rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rasrbk_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCQ2XnBNUjfQOrZdwNx4p2cQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
