@@ -1,7 +1,9 @@
-Hi 👋 My name is Rebeca Almeida
+Olá 👋 Meu nome é Rebeca Almeida
 ===============================
 
-Community Manager of the Data Science for Civic Innovation Program - Open Knowledge Brasil Jornalista de Dados, artista visual e ativista pela pedagogia hacker. Atualmente faço parte da equipe da OKBR, onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. Sou bacharel em Comunicação Social com habilitção em Jornalismo pela Universidade Federal da Bahia (Ufba). Faço parte do Raul Hacker Club e Pyladies Salvador. Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no g1BA, no jornal ATARDE, no site Boca do Rio Magazine e na agência de notícias Ciência e Cultura – UFBA.
+Sou gestora de comunidades no programa de Ciência de Dados para Inovação Cívica da Open Knowledge Brasil (OKBR)
+
+Jornalista de Dados, artista visual e ativista pela pedagogia hacker. Atualmente faço parte da equipe da OKBR, onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. Sou bacharel em Comunicação Social com habilitção em Jornalismo pela Universidade Federal da Bahia (Ufba). Faço parte do Raul Hacker Club e Pyladies Salvador. Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no g1BA, no jornal ATARDE, no site Boca do Rio Magazine e na agência de notícias Ciência e Cultura – UFBA.
 
 * ✉️  You can contact me at [rebeca@ok.org.br](mailto:rebeca@ok.org.br)
 
