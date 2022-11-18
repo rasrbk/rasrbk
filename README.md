@@ -4,13 +4,14 @@
 Atualmente faço parte da equipe da [OKBR](https://ok.org.br/), onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. 
 
 Sou bacharel em Comunicação Social com Habilitção em Jornalismo pela Universidade Federal da Bahia (Ufba). Faço parte do [Raul Hacker Club](https://raulhc.cc/) e [Pyladies Salvador](https://www.instagram.com/pyladies.ssa/). 
-Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no [g1BA](https://g1.globo.com/ba/bahia/noticia/2021/10/10/baianos-criam-escola-para-ensinar-sobre-importancia-das-abelhas-precisamos-aprender-a-viver-integrados-a-natureza.ghtml), no [jornal ATARDE](https://atarde.com.br/?d=1), no site [Boca do Rio Magazine](http://bocadoriomagazine.com.br/confira-lista-dos-politicos-eleitos-e-balanco-das-eleicoes-na-bahia/) e na [agência de notícias Ciência e Cultura – UFBA](http://www.cienciaecultura.ufba.br/agenciadenoticias/tag/rebeca-almeida/).
+Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no [g1BA](https://g1.globo.com/ba/bahia/noticia/2021/10/10/baianos-criam-escola-para-ensinar-sobre-importancia-das-abelhas-precisamos-aprender-a-viver-integrados-a-natureza.ghtml), no [jornal ATARDE](https://atarde.com.br/?d=1), no site [Boca do Rio Magazine](http://bocadoriomagazine.com.br/confira-lista-dos-politicos-eleitos-e-balanco-das-eleicoes-na-bahia/) e na [agência de notícias Ciência e Cultura – UFBA](http://www.cienciaecultura.ufba.br/agenciadenoticias/tag/rebeca-almeida/). Como [artista visual](https://www.deviantart.com/rasrbk) utilizo principalmente técnicas tradicionais para pintura e desenho. 
 
 * 🌍  Moro em Salvador-BA
 * 🖥️  Meu portfólio de textos: [Rasrbk](http://rasrbk.journoportfolio.com/)
 * ✉️  Você pode me contatar em: [rebeca@ok.org.br](mailto:rebeca@ok.org.br) ou [rasrebeca@gmail.com](mailto:rasrebeca@gmail.com)
 * 🚀  Estou trabalhando na [Open Knowledge Brasil](http://ok.org.br)
 * 🧠  Estou aprendendo: Python para Inovação Cívica, Análise de Dados e Arquitetura de Computadores
+* 🎨  Alguns trabalhos artísticos: [Rasrbk](https://www.deviantart.com/rasrbk)
 
 ### Skills
 
@@ -27,13 +28,13 @@ Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como 
 
 <p align="left"> <a href="https://discord.com/users/rasrbk#0463" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rebeca-almeida-rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/rasrbk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a> <a href="https://www.deviantart.com/rasrbk" target="_blank" rel="noreferrer"><img src="https://img2.gratispng.com/20180515/clq/kisspng-logo-deviantart-5afad97e779fc5.64022573152638911849.jpg" width="32" height="32" /></a></p> 
 
-### Games
+### Onde eu jogo: 
 
 ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) 
 
-### Outros
+### Outras coisas: 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
