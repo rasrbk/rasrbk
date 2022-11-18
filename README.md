@@ -1,7 +1,7 @@
 ## Olá 👋 Meu nome é Rebeca Almeida
-### Jornalista de Dados, Artista Visual, ativista pelo conhecimento livre e amante de jogos eletrônicos
+### Jornalista de Dados, ativista pelo conhecimento livre, artista visual e amante de jogos eletrônicos
 
-Atualmente faço parte da equipe da [OKBR](https://ok.org.br/), onde atuo como gestora de comunidade no programa Ciência de Dados para Inovação Cívica. 
+Atualmente faço parte da equipe da [OKBR](https://ok.org.br/), onde atuo como gestora de comunidades no programa Ciência de Dados para Inovação Cívica. 
 
 Sou bacharel em Comunicação Social com Habilitção em Jornalismo pela Universidade Federal da Bahia (Ufba). Faço parte do [Raul Hacker Club](https://raulhc.cc/) e [Pyladies Salvador](https://www.instagram.com/pyladies.ssa/). 
 Também sou voluntária na biblioteca comunitária Betty Coelho. Já atuei como repórter no [g1BA](https://g1.globo.com/ba/bahia/noticia/2021/10/10/baianos-criam-escola-para-ensinar-sobre-importancia-das-abelhas-precisamos-aprender-a-viver-integrados-a-natureza.ghtml), no [jornal ATARDE](https://atarde.com.br/?d=1), no site [Boca do Rio Magazine](http://bocadoriomagazine.com.br/confira-lista-dos-politicos-eleitos-e-balanco-das-eleicoes-na-bahia/) e na [agência de notícias Ciência e Cultura – UFBA](http://www.cienciaecultura.ufba.br/agenciadenoticias/tag/rebeca-almeida/). Como [artista visual](https://www.deviantart.com/rasrbk) utilizo principalmente técnicas tradicionais para pintura e desenho. 
